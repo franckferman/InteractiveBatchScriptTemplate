@@ -5,11 +5,11 @@
 [![Forks][forks-shield]](https://github.com/franckferman/InteractiveBatchScriptTemplate/network/members)
 [![Stargazers][stars-shield]](https://github.com/franckferman/InteractiveBatchScriptTemplate/stargazers)
 [![Issues][issues-shield]](https://github.com/franckferman/InteractiveBatchScriptTemplate/issues)
-[![License][license-shield]](https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/stable/LICENSE)
+[![License][license-shield]](https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/dev/LICENSE)
 
 <!-- Logo -->
 <a href="https://github.com/franckferman/InteractiveBatchScriptTemplate">
-  <img src="https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/stable/docs/github/graphical_resources/Logo-Without_background-InteractiveBatchScriptTemplate.png" alt="InteractiveBatchScriptTemplate Logo" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/dev/docs/github/graphical_resources/Logo-Without_background-InteractiveBatchScriptTemplate.png" alt="InteractiveBatchScriptTemplate Logo" width="auto" height="auto">
 </a>
 
 <!-- Title & Tagline -->
@@ -22,7 +22,7 @@
 
 <!-- Links & Demo -->
 <p align="center">
-    <a href="https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/stable/README.md" class="button-style"><strong>📘 Explore the full documentation</strong></a>
+    <a href="https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/dev/README.md" class="button-style"><strong>📘 Explore the full documentation</strong></a>
     ·
     <a href="https://github.com/franckferman/InteractiveBatchScriptTemplate/issues">🐞 Report Bug</a>
     ·
@@ -54,7 +54,7 @@
 This project offers a structured and efficient template for developing interactive batch scripts aimed at automating a variety of tasks in Windows environments. Crafted to serve as a foundational tool, it empowers system administrators, IT professionals, and developers to interactively execute commands based on user input, streamline processes, or configure system settings.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/stable/docs/github/graphical_resources/interactive-batch-script-template-main.png" alt="Interactive Batch Script Template main menu Demo Screenshot" width="auto" height="auto">
+  <img src="https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/dev/docs/github/graphical_resources/interactive-batch-script-template-main.png" alt="Interactive Batch Script Template main menu Demo Screenshot" width="auto" height="auto">
 </p>
 
 Dive into batch scripting with confidence using this interactive batch script template as your starting point. Tailor it to your tasks and discover the efficiency and power of automated scripting on Windows.
@@ -78,7 +78,7 @@ To incorporate this template into your workflow, you can easily download it dire
 **Direct Download**:
 Open cmd.exe and use the following command to download the batch script:
 ```bash
-curl -sO https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/main/InteractiveBatchScriptTemplate.bat
+curl -sO https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/dev/InteractiveBatchScriptTemplate.bat
 ```
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
@@ -128,7 +128,7 @@ Your support is greatly appreciated. We're grateful for every star! Your backing
 
 ## 📚 License
 
-This project is licensed under the GNU Affero General Public License, Version 3.0. For more details, please refer to the LICENSE file in the repository: [Read the license on GitHub](https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/stable/LICENSE)
+This project is licensed under the GNU Affero General Public License, Version 3.0. For more details, please refer to the LICENSE file in the repository: [Read the license on GitHub](https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/dev/LICENSE)
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
 
@@ -151,7 +151,7 @@ This project is licensed under the GNU Affero General Public License, Version 3.
 [issues-shield]: https://img.shields.io/github/issues/franckferman/InteractiveBatchScriptTemplate.svg?style=for-the-badge
 [issues-url]: https://github.com/franckferman/InteractiveBatchScriptTemplate/issues
 [license-shield]: https://img.shields.io/github/license/franckferman/InteractiveBatchScriptTemplate.svg?style=for-the-badge
-[license-url]: https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/stable/LICENSE
+[license-url]: https://github.com/franckferman/InteractiveBatchScriptTemplate/blob/dev/LICENSE
 [protonmail-shield]: https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=blueviolet
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=blue
