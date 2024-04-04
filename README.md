@@ -78,7 +78,7 @@ To incorporate this template into your workflow, you can easily download it dire
 **Direct Download**:
 Open cmd.exe and use the following command to download the batch script:
 ```bash
-curl -sO https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/main/InteractiveBatchScriptTemplate.bat
+curl -sO https://raw.githubusercontent.com/franckferman/InteractiveBatchScriptTemplate/stable/InteractiveBatchScriptTemplate.bat
 ```
 
 <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
